@@ -337,14 +337,14 @@
   font-size: 18px;
   font-family: var(--main-font-family);
   line-height: 23.4px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   color: var(--main-heading-color);
   font-weight: 700;
 }
 
 @media (width >=768px) {
   .block__title__advice {
-    margin-bottom: 10px;
+    margin-bottom: 0;
   }
 }
 
