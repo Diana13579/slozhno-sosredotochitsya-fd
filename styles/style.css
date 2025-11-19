@@ -309,14 +309,16 @@
   font-size: 18px;
   font-family: var(--main-font-family);
   line-height: 23.4px;
-  margin-top: 20px;
+  margin-top: 10px;
   color: var(--main-heading-color);
   font-weight: 700;
 }
 
+
+
 @media (width >=768px) {
   .block__title {
-    margin-top: 0;
+    margin-top: 20px;
   }
 } 
 
