@@ -324,10 +324,15 @@
   font-weight: 400;
 }
 
+@media (width >=768px) {
+  .subtitle {
+  margin-top: 10px;
+}
+}
+
 @media (width >=1024px) {
   .subtitle {
     margin-bottom: 10px;
-    font-weight: 400;
   }
 }
 
