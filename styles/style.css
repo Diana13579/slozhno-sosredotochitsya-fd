@@ -206,7 +206,7 @@
 @media (width >=1024px) {
   .content {
     padding-top: 40px;
-    gap: 80px;
+    gap: 20px;
   }
 }
 
@@ -283,6 +283,7 @@
   .text-blocks {
     grid-template-columns: repeat(3, 1fr);
     font-size: 18px;
+     gap: 15px;
   }
 }
 
