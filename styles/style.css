@@ -326,7 +326,7 @@
 
 @media (width >=768px) {
   .subtitle {
-  margin-top: 10px;
+  margin-top: 0;
 }
 }
 
