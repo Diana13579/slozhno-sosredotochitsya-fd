@@ -211,7 +211,7 @@
 
 .section {
   display: grid;
-  gap: 25px;
+  gap: 20px;
   font-size: var(--main-font-family);
   line-height: 23.4px;
 }
@@ -231,7 +231,7 @@
 .content-section__why {
   display: flex;
   flex-direction: column;
-  padding-top: 20px;
+  padding-top: 30px;
   margin-bottom: 40px;
 }
 
