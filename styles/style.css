@@ -251,6 +251,7 @@
 
 @media (width >=1024px) {
   .content-section__why {
+    grid-template-columns: 1fr 1fr 1fr;
     margin-bottom: 0;
   }
 }
