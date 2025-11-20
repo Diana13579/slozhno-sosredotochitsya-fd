@@ -1,4 +1,4 @@
-/* :root.theme-dark {
+:root.theme-dark {
 	--main-color-title: #ff0070;
 	--main-bg-color: #000028;
 	--bg-image: url(../images/cover-image-dark.png);
@@ -17,4 +17,4 @@
 
 .theme-dark .header__decorated-element {
 	display: block;
-} */
+}
