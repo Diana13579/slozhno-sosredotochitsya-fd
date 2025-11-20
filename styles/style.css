@@ -211,7 +211,7 @@
 
 .section {
   display: grid;
-  gap: 20px;
+  gap: 15px;
   font-size: var(--main-font-family);
   line-height: 23.4px;
 }
