@@ -336,6 +336,12 @@
   }
 }
 
+@media (width >=768px) {
+ .block__lists {
+  margin-bottom: 10px;
+}
+}
+
 .block__title__advice {
   background-color: var(--main-color-title);
   font-size: 18px;
