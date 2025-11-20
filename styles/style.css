@@ -338,7 +338,13 @@
 
 @media (width >=768px) {
  .block__lists {
-  margin-bottom: 8px;
+  margin-bottom: 6px;
+}
+}
+
+@media (width >=1024px) {
+ .block__lists {
+  margin-bottom: 0;
 }
 }
 
