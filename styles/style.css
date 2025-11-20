@@ -344,11 +344,11 @@
 }
 
 
-@media (width >=768px) {
+/* @media (width >=768px) {
   .block__title__advice {
     margin-top: 20px;
   }
-}
+} */
 
 @media (width >=1024px) {
   .block__title__advice {
@@ -362,16 +362,16 @@
   font-weight: 400;
   font-size: 18px;
 margin-top: 9.9px;
-  /* margin-bottom: 10px; */
+  margin-bottom: 10px;
   line-height: 23.4px;
 }
 
-/* @media (width >=1024px) {
+@media (width >=1024px) {
   .block__content {
-    margin-bottom: 10px;
+
     margin-bottom: 0;
   }
-} */
+}
 
 .block-link {
   text-decoration: none;
