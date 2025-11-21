@@ -424,7 +424,7 @@
 
 @media (width >=768px) {
   .content-section__middle {
-    grid-template-columns: 1fr 1.1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     margin-bottom: 80px;
   }
 }
